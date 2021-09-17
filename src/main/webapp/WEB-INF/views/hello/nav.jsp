@@ -38,15 +38,15 @@
         </li>
         
         <li class="nav-item">
-          <a class="nav-link " href="#">씨터소개</a>
+          <a class="nav-link " href="/sitter/profileBoard">씨터소개</a>
         </li>
         
         <li class="nav-item">
-          <a class="nav-link" href="review/boardReview">후기</a>
+          <a class="nav-link" href="/review/boardReview">후기</a>
         </li>
         
         <li class="nav-item">
-          <a class="nav-link" href="#">Q&A</a>
+          <a class="nav-link" href="/qna/qnaMain">Q&A</a>
         </li>
         
         <li class="nav-item">

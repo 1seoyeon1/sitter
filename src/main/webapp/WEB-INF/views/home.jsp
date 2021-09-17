@@ -17,7 +17,7 @@
 
 <body>
 
-<%@ include file="nav.jsp" %>
+<%@ include file="./hello/nav.jsp" %>
 
 
 <h1>
